@@ -1,0 +1,16 @@
+{
+  "name": "debug-reward",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@maticnetwork/meta": "^2.3.3",
+    "ethereumjs-block": "1.7.1",
+    "ethereumjs-common": "1.5.1",
+    "ethereumjs-tx": "2.1.2",
+    "ethereumjs-util": "7.0.2",
+    "fs": "^0.0.1-security",
+    "merkle-patricia-tree": "2.3.2",
+    "web3": "^1.2.11"
+  }
+}
